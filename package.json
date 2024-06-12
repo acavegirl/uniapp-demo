@@ -1,11 +1,6 @@
 {
-  "name": "vite-uniapp-template",
+  "name": "vite-uniapp-demo",
   "version": "2.7.3",
-  "author": {
-    "name": "viarotel",
-    "email": "viarotel@qq.com",
-    "url": "https://viarotel.eu.org/"
-  },
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
